@@ -1,0 +1,58 @@
+@import url('http/fonts.googleapis.com/css/family=quicksand:400,500&subset=latin-ext');
+body {
+    padding: 100px
+    backgroud-image: linear-gradien(-20deg, #ff2846 0%, #6944ff 100%);
+    text-align : center;
+    font-family : 'quic ksand', sans: serif;
+}
+.main {
+    width: 800px;
+    height: 520px;
+    background-color: #1f7fb6;
+margin: 0 auto;
+padding-top: 20px;
+border-radius: 10px;
+border: 1px solid #eeeeee;
+}
+.img {
+    background-image: url(../images/Sarmunah.jpg);
+    background-color: #f87676;
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1px solid #dacece;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: #e5e3ee;
+}
+.text {
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color: #ecf4fa;
+}
+p { 
+margin: 0 auto;
+padding-top: 20px;
+width: 450px;
+height: auto;
+color: #e4e7ea;
+}
+
+.btn{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	font-weight: 500;
+	background: #fff;
+	color: #ff01cf;
+	padding: 10px 30px;
+	border-radius: 30px
+	margin: 30px 0 10px;
+
